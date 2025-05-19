@@ -1,0 +1,32 @@
+# SimulatorPoS
+
+Simulador de um sistema de Proof of Stake (PoS) desenvolvido em Rust. Este projeto visa demonstrar os princípios fundamentais do mecanismo de consenso PoS, permitindo experimentações e análises de seu funcionamento.
+
+- Simulação de validação de blocos baseada em PoS
+- Geração e gerenciamento de validadores
+- Registro de transações simuladas
+- Análise de desempenho e segurança do algoritmo
+
+Instalação:
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/GabsDev13/SimulatorPoS.git
+   cd SimulatorPoS 
+   cargo build --release
+   cargo run
+
+2. Funcionamento
+   
+   Forneça o nome para o usuário;
+   Selecione o perfil;
+   Caso seja Avançado ou Profissional, escolha uma opção para se inscrever como validador;
+   Faça isso para dez usuários;
+   O simulador irá iniciar a partir do momento que for criado o último user;
+   Abaixo será listado o resultado da simulação;
+
+3. Considerações Finais
+   
+   Este projeto foi desenvolvido em apenas duas semanas de estúdo sobre a linguagem Rust e Blockchain.
+   Futuramente o sistema pode ganhar melhorias conforme o aprendizado.
