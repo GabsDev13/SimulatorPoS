@@ -34,7 +34,7 @@ Instalação:
    O simulador irá iniciar a partir do momento que for criado o último user;
    Abaixo será listado o resultado da simulação;
 
-3. Considerações Finais:
+4. Considerações Finais:
    
    Este projeto foi desenvolvido em apenas duas semanas de estúdo sobre a linguagem Rust e Blockchain.
    Futuramente o sistema pode ganhar melhorias conforme o aprendizado.
