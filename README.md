@@ -17,7 +17,7 @@ Instalação:
    cargo build --release
    cargo run
 
-2. Funcionamento
+2. Funcionamento:
    
    Forneça o nome para o usuário;
    Selecione o perfil;
@@ -26,7 +26,11 @@ Instalação:
    O simulador irá iniciar a partir do momento que for criado o último user;
    Abaixo será listado o resultado da simulação;
 
-3. Considerações Finais
+3. Considerações Finais:
    
    Este projeto foi desenvolvido em apenas duas semanas de estúdo sobre a linguagem Rust e Blockchain.
    Futuramente o sistema pode ganhar melhorias conforme o aprendizado.
+
+ Artigo:
+   
+   https://github.com/GabsDev13/SimulatorPoS/blob/master/Simula%C3%A7%C3%A3o%20de%20Stake%20e%20Sele%C3%A7%C3%A3o%20de%20Validadores.docx.pdf
