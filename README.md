@@ -20,11 +20,13 @@ Instalação:
    ```bash 
    cargo build --release
    ```
-   ```bash
-   cargo run
 
 2. Funcionamento:
    
+   Digite:
+    ```bash
+   cargo run
+   ```   
    Forneça o nome para o usuário;
    Selecione o perfil;
    Caso seja Avançado ou Profissional, escolha uma opção para se inscrever como validador;
