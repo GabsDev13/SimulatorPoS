@@ -13,8 +13,14 @@ Instalação:
 
    ```bash
    git clone https://github.com/GabsDev13/SimulatorPoS.git
-   cd SimulatorPoS 
+   ```
+   ```bash
+   cd SimulatorPoS
+   ```
+   ```bash 
    cargo build --release
+   ```
+   ```bash
    cargo run
 
 2. Funcionamento:
